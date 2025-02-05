@@ -1,4 +1,6 @@
-- Web scraping
-- Utilizing libraries liek Pandas and NumPy for data cleaning
-- K-Modes for clustering
-- Matplotlib for visualizations
+- What object oriented programming is: programming paradigm organizing code into objects (classes)
+- Core OOP concepts: classes, objects, inheritance, polymorphism, encapsulation (building data and methods within class)
+- Non-OOP approaches: procedural, functional, imperative programming
+- Fundamentals of data structures: linear data structures (lists, stacks, queues), non-linear DS (trees, graphs, heaps), hashing-based structures (dictionaries)
+- Algorithms: sorting (bubble, merge, quickshort), search (linear, binary), graph
+- Abstract data types: list, stack, queue, set
