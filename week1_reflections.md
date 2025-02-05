@@ -1,0 +1,4 @@
+- Web scraping
+- Utilizing libraries liek Pandas and NumPy for data cleaning
+- K-Modes for clustering
+- Matplotlib for visualizations
